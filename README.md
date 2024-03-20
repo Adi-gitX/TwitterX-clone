@@ -1,6 +1,6 @@
 ### Twitter Clone
 
-<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter Logo"> 
+<img src="[https://img.icons8.com/color/48/000000/twitter--v1.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fx-logo&psig=AOvVaw1n_p5zz-IzXspUEWcqH5U2&ust=1711018882413000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjMz5fYgoUDFQAAAAAdAAAAABAE)" alt="Twitter Logo"> 
 
 A simple Twitter clone web application designed with HTML and CSS.
 
