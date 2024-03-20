@@ -1,4 +1,4 @@
-### Twitter Clone
+### **Twitter Clone**
 
 A simple Twitter clone web application designed with HTML and CSS.
 
