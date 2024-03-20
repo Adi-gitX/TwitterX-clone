@@ -1,6 +1,6 @@
 ### Twitter Clone
 
-<img src="https://icons8.com/icon/phOKFKYpe00C/twitterx" alt="Twitter Logo"> 
+<img src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10796.jpg?w=360" alt="Twitter Logo"> 
 
 A simple Twitter clone web application designed with HTML and CSS.
 
